@@ -4,7 +4,7 @@ An interactive, bilingual (EN / UK) learning app for software testing concepts, 
 
 ![Testing Academy screenshot](docs/screenshot.png)
 
-**Live demo:** https://YOUR_USERNAME.github.io/testing-academy/
+**Live demo:** https://yurchykd.github.io/testing-academy/
 
 ## Features
 
@@ -36,17 +36,7 @@ python3 -m http.server 8000
 └── README.md
 ```
 
-## Deploy with GitHub Pages
-
-1. Push the repository to GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-4. After a minute the site is available at `https://YOUR_USERNAME.github.io/testing-academy/`.
-
 ## Content note
 
 This is an independent learning companion. Terminology follows ISTQB CTFL v4.0.1, but the texts and examples are original and the project is not affiliated with or endorsed by ISTQB.
 
-## License
-
-MIT — see `LICENSE` (add one if you want to make the licence explicit).
